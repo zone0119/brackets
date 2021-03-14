@@ -17,3 +17,6 @@ var arrBrackets = str.split('');
 
 //var bracketsConfig = [['(', ')'], ['|', '|']]; // -> true
 //check(str, bracketsConfig);
+
+//#todo
+https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/wildlife
